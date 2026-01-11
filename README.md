@@ -213,7 +213,7 @@ Video demo aplikasi berdurasi maksimal **10 menit**, menampilkan:
 - Pencarian dan Pagination
 - Logout
 
-(Link YouTube disertakan pada form pengumpulan)
+Link YouTube: https://youtu.be/WAyChmEc1NY
 
 ---
 
