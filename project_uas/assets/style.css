@@ -1,0 +1,216 @@
+/* Body */
+body {
+    background: linear-gradient(135deg, #fff1f5, #fdf2f8);
+    min-height: 100vh;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Card */
+.card {
+    border-radius: 18px;
+    border: none;
+    background: #ffffff;
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+}
+
+/* Button utama */
+.btn-primary {
+    background: linear-gradient(135deg, #f472b6, #fb7185);
+    border: none;
+    border-radius: 12px;
+    padding: 8px 18px;
+    color: white;
+}
+
+/* ===============================
+   TABLE PRODUK
+   =============================== */
+
+.produk-table {
+    background: #ffffff;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.produk-table thead th {
+    background: #fff1f5;
+    color: #9d174d;
+    font-weight: 700;
+    padding: 14px;
+    border-bottom: 2px solid #fbcfe8;
+}
+
+.produk-table tbody td {
+    padding: 14px;
+    color: #4a044e;
+}
+
+.produk-table tbody tr {
+    border-bottom: 1px solid #fbcfe8;
+}
+
+.produk-table tbody tr:hover {
+    background: #fdf2f8;
+}
+
+/* Badge kategori */
+.produk-badge {
+    background: #fbcfe8;
+    color: #9d174d;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 0.85rem;
+}
+
+/* Tombol aksi */
+.btn-edit {
+    background: #facc15;
+    color: #78350f;
+    border-radius: 20px;
+    padding: 6px 14px;
+    border: none;
+}
+
+.btn-hapus {
+    background: #fb7185;
+    color: white;
+    border-radius: 20px;
+    padding: 6px 14px;
+    border: none;
+}
+
+.btn-edit:hover,
+.btn-hapus:hover {
+    opacity: .85;
+}
+
+/* Gambar */
+.produk-table img {
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0,0,0,.1);
+}
+
+/* ===============================
+   NAVBAR FONT (BUKAN PUTIH)
+   =============================== */
+
+/* Brand & menu */
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #9d174d !important; /* rose tua */
+    font-weight: 600;
+}
+
+/* Hover & active */
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+    color: #831843 !important; /* lebih gelap */
+    text-decoration: underline;
+}
+
+/* Tombol logout */
+.navbar .btn-light {
+    background: #fff1f5;
+    color: #9d174d;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+.navbar .btn-light:hover {
+    background: #fce7f3;
+    color: #831843;
+}
+
+.card h5 {
+    color: #9d174d;
+    font-weight: 600;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s ease;
+}
+
+/* Search form */
+form input.form-control {
+    border-radius: 12px;
+}
+
+form .btn {
+    border-radius: 12px;
+}
+
+/* ===============================
+   CUSTOM PAGINATION (FIX TOTAL)
+   =============================== */
+
+.custom-pagination .page-link {
+    background-color: #fff !important;
+    color: #9d174d !important;
+    border: none !important;
+    border-radius: 12px !important;
+    margin: 0 6px;
+    font-weight: 600;
+}
+
+.custom-pagination .page-item.active .page-link {
+    background-color: #fb7185 !important; /* PINK SOLID */
+    color: #ffffff !important;
+}
+
+.custom-pagination .page-link:hover {
+    background-color: #fce7f3 !important;
+    color: #831843 !important;
+}
+
+/* Input cari */
+.form-search {
+    max-width: 180px;
+    border-radius: 20px;
+    padding: 8px 14px;
+}
+
+/* Tombol Cari (diperkecil) */
+.btn-cari {
+    background: linear-gradient(135deg, #fb7185, #f472b6);
+    color: white;
+    border-radius: 20px;
+    padding: 8px 14px;
+    font-size: 14px;
+    border: none;
+}
+
+.btn-cari:hover {
+    opacity: 0.9;
+}
+
+/* Tombol Reset */
+.btn-reset {
+    background: #fce7f3;
+    color: #9d174d;
+    border-radius: 20px;
+    padding: 8px 14px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.btn-reset:hover {
+    background: #fbcfe8;
+}
+
+/* Tombol Tambah Menu */
+.btn-tambah-menu {
+    background: linear-gradient(135deg, #fb7185, #f472b6);
+    color: white;
+    border-radius: 999px;
+    padding: 10px 20px;
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.btn-tambah-menu:hover {
+    opacity: 0.9;
+}
