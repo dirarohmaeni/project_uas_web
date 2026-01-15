@@ -160,6 +160,8 @@ CREATE TABLE barang (
 
 ## 📸 Dokumentasi
 Dokumentasi aplikasi meliputi:
+
+
 _Screenshot halaman Login_
 ![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/login.png)
 
@@ -184,7 +186,8 @@ _Pagination_
 _Data Menu User_
 ![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/user_menu.png)
 
-_Data 
+_Dashboard User_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/user_login.png)
 
 
 ---
