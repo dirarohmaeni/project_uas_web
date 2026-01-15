@@ -171,6 +171,9 @@ _Dashboard Admin_
 _Data Menu Admin_
 ![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/menu.png)
 
+_Hapus Menu_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/hapus.png)
+
 _Tambah Menu_
 ![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/tambah.png)
 
