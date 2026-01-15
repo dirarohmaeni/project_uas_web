@@ -160,14 +160,31 @@ CREATE TABLE barang (
 
 ## 📸 Dokumentasi
 Dokumentasi aplikasi meliputi:
-- Screenshot halaman Login
-- Dashboard
-- Data Menu
-- Tambah Menu
-- Edit Menu
-- Pencarian
-- Pagination
-- Logout
+_Screenshot halaman Login_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/login.png)
+
+_Dashboard Admin_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/dashboard.png)
+
+_Data Menu Admin_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/menu.png)
+
+_Tambah Menu_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/tambah.png)
+
+_Edit Menu_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/edit.png)
+
+_Pencarian_
+![foto](
+
+_Pagination_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/pagination.png)
+
+_Data Menu User_
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/user_menu.png)
+
+_Data 
 
 
 ---
