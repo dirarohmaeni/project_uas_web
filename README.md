@@ -176,7 +176,7 @@ _Edit Menu_
 ![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/edit.png)
 
 _Pencarian_
-![foto](
+![foto](https://github.com/dirarohmaeni/project_uas_web/blob/3b0d634f0642950b07ca69638ceba4791055bb15/project_uas/images/img/cari.png)
 
 _Pagination_
 ![foto](https://github.com/dirarohmaeni/project_uas_web/blob/d78321320563c45f91ac413ced2b6da6052e7588/project_uas/images/img/pagination.png)
